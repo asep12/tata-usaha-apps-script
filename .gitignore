@@ -1,0 +1,22 @@
+# Identitas proyek Apps Script milik pemasang (berisi ID script dan Sheet)
+.clasp.json
+.clasprc.json
+
+# Catatan pribadi dan pengaturan alat lokal
+CLAUDE.local.md
+.claude/
+
+# Data asli sekolah dan dokumen kerja internal: jangan pernah diunggah
+reference/
+PRD-*.md
+*.xlsx
+*.docx
+*.pdf
+
+# Hasil rakitan pratinjau (dibuat ulang dengan: node preview/build.js)
+preview/index.html
+
+# Sistem
+node_modules/
+.DS_Store
+Thumbs.db
